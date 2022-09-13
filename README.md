@@ -1,7 +1,7 @@
 ### Olá, Meu nome é Matheus Reis
 
 - 🔭 Atualmente estou trabalhando em Back-end
-- 🌱 Estudando Python
+- 🌱 Estudando Python  | Java
 - 📫 Fale comigo: matheusereis44@gmail.com
 - 😄 Pronouns: Ele/Dele
 
