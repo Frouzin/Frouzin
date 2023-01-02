@@ -6,8 +6,10 @@
 - 😄 Pronouns: Ele/Dele
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frouzin&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frouzin&layout=compact&theme=radical)](https://github.com/Frouzin)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frouzin&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frouzin&layout=compact&theme=dark)](https://github.com/Frouzin)
 
 </div>
 <div style="display: inline_block"><br>
